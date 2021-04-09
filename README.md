@@ -35,5 +35,7 @@ Lose condition: A player loses if the opponent sinks all of their ships.
 
 # Contribution 
 [Reedham Patel](https://www.linkedin.com/in/reedham-patel-2319681a2/)
+
 [Akshay Patel](https://www.linkedin.com/in/akahay-patel/)
+
 [PcGamingColony](https://www.pcgamingcolony.com)
